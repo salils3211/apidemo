@@ -5,7 +5,7 @@ on:
       remarks:
         description: 'Reason for triggering the workflow run'
         required: false
-        default: 'Updating Azure Policies'
+        default: 'Updating Azure Policies' 
 
 
 ## Uncomment the following if you wish to automatically trigger workflow run with every commit
